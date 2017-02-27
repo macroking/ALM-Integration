@@ -6,8 +6,11 @@ Since there are different open source test frameworks, the team always struggle 
 
 # Environment
 ** Jenkins / Local Machine **
+
 ** Python version < 3 **
+
 ** Python Packages **
+
   1. requests
 
 # What does the script cand do
