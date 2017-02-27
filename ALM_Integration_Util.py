@@ -850,7 +850,8 @@ def main(strenv, build_number, onlycreatetestcase):
     '''
     fname = './hpqc.conf.txt'
     alm_config = {
-        'GIT_HUB_URL': '', 'GIT_TEST_LOC': '', 'ALM_PROJECT': '', 'TEST_PLAN_PATH' : '',
+        'ALM_URL': '', 'ALM_URL': '', 'ALM_USER_NAME': '', 'ALM_PASSWORD': '', 'ALM_DOMAIN': '',
+        'GIT_TEST_LOC': '', 'ALM_PROJECT': '', 'TEST_PLAN_PATH' : '',
         'TEST_SET_PATH' : '', 'TEST_PLAN_FOLDERS': '', 'TEST_SET_FOLDERS' : '',
         'TEST_SET_NAME': '', 'TEST_TYPE': '', 'ASSIGNMENT_GROUP': ''}
     with open(fname, 'r') as file:
