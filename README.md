@@ -5,11 +5,11 @@ This project is to integration HP ALM and other test automation frameworks. Stil
 Since there are different open source test frameworks, the team always struggle to bring the test cases and test results back to HP ALM. It happened in our team, so I initally created python script for each test framework type and the maintenance went crazy. Finally developed this script to support most of the frequently used test frameworks in web development.
 
 # Environment
-* Jenkins / Local Machine *
+* Jenkins / Local Machine 
 
-* Python version < 3 *
+* Python version < 3 
 
-* Python Packages *
+* Python Packages 
 
   1. requests
 
