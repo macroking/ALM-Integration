@@ -1,0 +1,13 @@
+ALM_URL=http://server/bin
+ALM_USER_NAME=user_name
+ALM_PASSWORD=pass_wd
+ALM_DOMAIN=alm_domain
+ALM_PROJECT=alm_project
+ASSIGNMENT_GROUP=alm_group
+GIT_TEST_LOC=qa/protractor,test/integration/admin,test/unit/admin,web-app
+TEST_PLAN_PATH=Auto_Generated_Tests\admin
+TEST_SET_PATH=Auto_Generated_Tests\admin
+TEST_PLAN_FOLDERS=Automated-ui,grails_unit,grails_integraion,karma_unit
+TEST_SET_FOLDERS=PROTRACTOR,GRAILS,GRAILS,KARMA
+TEST_TYPE=PROTRACTOR,GRAILS,GRAILS,KARMA
+TEST_SET_NAME=PROTRACTOR,GRAILS,GRAILS,KARMA
